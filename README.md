@@ -1,4 +1,4 @@
-# 💼 Devaraj's Portfolio Website
+# 💼 Portfolio Website
 
 A clean and professional portfolio website built to showcase my skills, projects, achievements, and provide easy ways to connect with me.
 
