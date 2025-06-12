@@ -1,26 +1,48 @@
-# 💼 Portfolio Website
+# 🌐 Modern Portfolio
 
-A clean and professional portfolio website built to showcase my skills, projects, achievements, and provide easy ways to connect with me.
+A modern, clean, and fully responsive **personal portfolio website** built to highlight your work, skills, and achievements. Optimized for all devices and deployed with GitHub Pages.
 
-🌐 **Live Preview**: [Click Here](https://Devarajb049.github.io/devarajportfolio)
-
----
-
-## 📌 Sections Included
-
-- 👋 About Me
-- 🛠️ Skills & Tools
-- 💻 Projects with GitHub Links
-- 🏆 Certifications & Achievements
-- 📫 Contact Info & Social Profiles
-- 📱 Fully Responsive Layout
+> ⚡ Built with HTML, CSS, and JavaScript — lightweight and fast with no external frameworks.
 
 ---
 
-## 🛠️ Technologies Used
+## 🌟 Features
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap (or your CSS framework)
-- GitHub Pages for Deployment
+- 🧑‍💼 Professional "About Me" section
+- 💼 Project portfolio grid with live links
+- 📫 Contact section with direct links
+- 📱 Fully responsive design
+- 🎨 Modern and aesthetic layout
+
+---
+
+## 🖥️ Tech Stack
+
+- ✅ **HTML5**  
+- ✅ **CSS3** — grid layout, media queries  
+- ✅ **JavaScript** — dynamic behavior and interactivity  
+
+---
+
+## 📸 Screenshots
+
+| Desktop View | Mobile View |
+|--------------|-------------|
+| ![Desktop](assets/portfolio-desktop.png) | ![Mobile](assets/portfolio-mobile.png) |
+
+---
+
+## 🚀 Live Preview
+
+🔗 [**Visit Live Site**](https://devarajb049.github.io/devarajportfolio/)
+
+---
+
+## 📂 How to Use
+
+### 🔧 Setup Steps
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Devarajb049/devarajportfolio.git
+   cd devarajportfolio
